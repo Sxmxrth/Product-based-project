@@ -23,6 +23,9 @@ nav{
 .navbar-brand{
     color: white;
 }
+.navbar-brand:hover{
+    color: whitesmoke;
+}
 .body1{
     /* position: relative; */
     text-align: center;
@@ -71,9 +74,13 @@ nav{
     left: 487px;
 }
 .iphone13{
+    
     position: absolute;
     left: 300px;
 
+}
+.iphone{
+    width: 91%;
 }
 .mac{
     position: absolute;
