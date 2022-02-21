@@ -1,0 +1,93 @@
+nav{
+    background-color: #1f1f1d;
+    position: relative;
+    align-items: baseline;
+    padding: 1.5rem;
+    text-align: center;
+    
+
+}
+
+
+.link{
+    text-decoration: none;
+    color: white;
+    padding: 1.5rem;
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    color: white;
+}
+.body1,.body2{
+    position: relative;
+    text-align: center;
+}
+.header{
+    font-size: 3.3rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0;
+
+}
+.desc{
+    text-align: center;
+    font-size: 1.7rem;
+    color: #5a5858;
+    font-weight: lighter;
+}
+.learnorbuy{
+    padding: 1rem;
+    text-align: center;
+}
+.learn{
+    
+    text-decoration: none;
+    padding-right: 1rem;
+}
+.buy{
+    padding-left: 1rem;
+    text-decoration: none;
+}
+
+.body2{
+    position: relative;
+    background-color: #32283b;
+}
+.header2{
+    font-size: 3.3rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -32rem;
+    margin-bottom: 0;
+    padding-top: 2rem;
+    color: white;
+}
+.desc2{
+    text-align: center;
+    font-size: 1.7rem;
+    color: #9A0680;
+    font-weight: light;
+}
+.body3{
+    position: relative;
+    background-color: white;
+    text-align: center;
+}
+.header3{
+    font-size: 3.3rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -12rem;
+    margin-bottom: 0;
+    padding-top: 2rem;
+    color: black;
+}
+.desc3{
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: light;
+}
+.mac{
+    width: 75%;
+}
